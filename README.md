@@ -10,4 +10,4 @@ Simple command-line To-Do List application created with Python helps you properl
 
 1. Run the Python script:
 ```bash
-python todo_list.py
+python to_do_list.py
